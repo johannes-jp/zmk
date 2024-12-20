@@ -1,4 +1,4 @@
-# Overlay file name should match name in Kconfig.shield
+// Overlay file name should match name in Kconfig.shield
 #include "hillside52.dtsi" // The shared dtsi file is included in the overlay
 
 // Label of the kscan node in the dtsi
