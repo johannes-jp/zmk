@@ -2,7 +2,7 @@
 if SHIELD_HILLSIDE52_LEFT
 
 # Name must be less than 16 characters long!
-config ZMK_HILLSIDE52
+config ZMK_KEYBOARD_NAME
     default "Hillside52"
 
 config ZMK_SPLIT_ROLE_CENTRAL
